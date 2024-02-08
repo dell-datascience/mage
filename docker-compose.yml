@@ -20,7 +20,7 @@ services:
       - 6789:6789
     volumes:
       - .:/home/src/
-      - ~/Documents/secrets/personal-gcp.json:/home/src/personal-gcp.json
+      - ~/Documents/a_zoom_data_engineer/Data_Engineering/week_1_basics_and_setup/chapter_4/gcp.json:/home/src/gcp.json
     restart: on-failure:5
   postgres:
     image: postgres:14

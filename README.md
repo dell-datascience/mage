@@ -20,7 +20,7 @@ This repo contains a Docker Compose template for getting started with a new Mage
 You can start by cloning the repo:
 
 ```bash
-git clone https://github.com/mage-ai/mage-zoomcamp.git mage-zoomcamp
+git clone https://github.com/mage-ai/mage-zoomcamp.git mage
 ```
 
 Navigate to the repo:
